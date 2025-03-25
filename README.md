@@ -5,6 +5,7 @@ The time when the CAN message was recorded (in seconds).
 
 Arbitration_ID	                                                          
 The identifier of the CAN message (usually in hexadecimal).
+
 DLC                                                                       
 Data Length Code (number of bytes in the Data field).
 
